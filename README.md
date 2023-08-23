@@ -17,7 +17,7 @@
 
 ### Figma File Below
 
-👉 <a href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyG73yE1ohvGmuVpcViEyyb%2FCoworking-%25E2%259C%2585%3Ftype%3Ddesign%26mode%3Ddesign%26t%3DhEP1MzjSq55nM90k-1">Figma Link</a>
+👉 <a href="https://www.figma.com/file/yG73yE1ohvGmuVpcViEyyb/Coworking-%E2%9C%85?type=design&t=hEP1MzjSq55nM90k-6">Figma Link</a>
 
 ##### You can follow me.
 
