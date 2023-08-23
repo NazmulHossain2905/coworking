@@ -15,9 +15,7 @@
 - HTML
 - CSS
 
-### Figma File Below
-
-👉 <a href="https://www.figma.com/file/yG73yE1ohvGmuVpcViEyyb/Coworking-%E2%9C%85?type=design&t=hEP1MzjSq55nM90k-6">Figma Link</a>
+## 👉 <a href="https://www.figma.com/file/yG73yE1ohvGmuVpcViEyyb/Coworking-%E2%9C%85?type=design&t=hEP1MzjSq55nM90k-6">Figma Link</a>
 
 ##### You can follow me.
 
